@@ -1,2 +1,2 @@
 # Secure-Password-Generator
-This is a simple HTML, CSS, and JavaScript web app that generates two random passwords upon clicking a button.
+This is a simple HTML, CSS, and JavaScript web app that generates two random passwords upon clicking a button. The passwords are displayed in the background of two different divs with different colors. The password generator uses an array of characters, including upper and lower case letters, numbers, and special characters, to create a random 15-character password. The app's interface is minimalistic yet attractive, using the Inter and Karla fonts to create a clean and modern look. With this password generator, you can easily create secure and unique passwords for all your accounts.
